@@ -43,13 +43,14 @@ I am a Full Stack Javascript Developer having experience in cross platform web d
 <!-- 
 <br></br>
 <a href="https://github.com/FahadAshraf26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAshraf26&theme=radical&hide=ruby,starlark,EJS" />
-</a>
-
-<a href="https://github.com/FahadAshraf26">
-<img src="https://github-readme-stats.vercel.app/api?username=FahadAshraf26&&show_icons=true&theme=radical&line_height=27&v=5" alt="Fahad's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAshraf26&theme=radical&count_private=true" />
 </a>
 -->
+
+<a href="https://github.com/FahadAshraf26">
+<img src="https://github-readme-stats.vercel.app/api?username=FahadAshraf26&show_icons=true&count_private=true&theme=dark&line_height=27&v=5&bg_color=00000000" alt="Fahad's GitHub Stats" />
+</a>
+
 <!--
 ![](https://komarev.com/ghpvc/?username=FahadAshraf26&style=flat-square)
 -->
