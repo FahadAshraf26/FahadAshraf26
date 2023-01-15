@@ -29,7 +29,6 @@ I am a Full Stack Javascript Developer having experience in cross platform web d
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -37,7 +36,6 @@ I am a Full Stack Javascript Developer having experience in cross platform web d
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-<a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 
