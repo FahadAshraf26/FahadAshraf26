@@ -40,13 +40,13 @@ I am a Full Stack Javascript Developer having experience in cross platform web d
 <a href="https://github.com/FahadAshraf26"><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 
 
-<!-- 
+<!--
 <br></br>
 <a href="https://github.com/FahadAshraf26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAshraf26&theme=radical&count_private=true" />
 </a>
 -->
-
+<br></br>
 <a href="https://github.com/FahadAshraf26">
 <img src="https://github-readme-stats.vercel.app/api?username=FahadAshraf26&show_icons=true&count_private=true&theme=dark&line_height=27&v=5&bg_color=00000000" alt="Fahad's GitHub Stats" />
 </a>
